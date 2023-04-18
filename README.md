@@ -1,7 +1,7 @@
 ### Olá! Eu sou Lucsa Benedet
 
-- 🔭 Atualmente não trabalho na Área de desenvolvedor
-- 🌱 Faço faculdade de Análise e desenvolvimento de sistemas e faço curso de Nodejs
+- 🔭 Atualmente não trabalho na Área de desenvolvedor, aceito oportunidades de emprego
+- 🌱 Faço faculdade de Análise e desenvolvimento de sistemas e faço bootcamp de angular na DIO.
 <div align="center">
   <a href="https://github.com/lucasbenedet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbenedet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
